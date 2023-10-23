@@ -14,4 +14,5 @@ User Stories:
 8. Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
 9. Your img element should be centered within its parent element
 
-![image](https://github.com/DVA09/tribute_page/assets/112496696/38f179c4-6292-4b52-bc08-1fad2555abfb)
+![image](https://github.com/DVA09/tribute_page/assets/112496696/7442e0c5-0bf7-46cc-9f3b-4ab0a8630a66)
+
